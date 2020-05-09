@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FuU77g+k/9TN6Ca/Xv9cXMoGK2MGdRDimCsOnlMF4cziffjkLEAK04UGoBdJhiLPkHOKzJXbI4yMAsuBs4p5aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luuk\\source\\repos\\LingoWords\\LingoWords\\LingoWords.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luuk\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
