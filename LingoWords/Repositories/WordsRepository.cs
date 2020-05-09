@@ -5,7 +5,9 @@ using System.Threading.Tasks;
 
 namespace LingoWords.Repositories
 {
-    public class WordsRepository
+    public interface WordsRepository
     {
+        List<string> ReadAllWords();
+
     }
 }
