@@ -21,7 +21,7 @@ namespace LingoWords.Services
         {
             Language language = Language.Nederlands;
             IList<Word> wordsList = new List<Word>();
-            foreach (var text in fileRepository.ReadAllWords())
+            foreach (Word text in fileRepository.ReadAllWords())
             {
                 string checkedWord = checkWord(text.word);
                 if (checkedWord != "")

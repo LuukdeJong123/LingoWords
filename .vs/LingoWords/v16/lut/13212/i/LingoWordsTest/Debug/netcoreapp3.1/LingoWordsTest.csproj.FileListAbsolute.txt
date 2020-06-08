@@ -1,0 +1,2 @@
+C:\Users\Luuk\source\repos\LingoWords\.vs\LingoWords\v16\lut\13212\i\LingoWordsTest\Debug\netcoreapp3.1\LingoWordsTest.AssemblyInfoInputs.cache
+C:\Users\Luuk\source\repos\LingoWords\.vs\LingoWords\v16\lut\13212\i\LingoWordsTest\Debug\netcoreapp3.1\LingoWordsTest.AssemblyInfo.cs

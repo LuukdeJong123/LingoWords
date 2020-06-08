@@ -19,7 +19,7 @@
     },
     "LingoWords": {
       "commandName": "Project",
-      "launchBrowser": true,
+      "launchBrowser": false,
       "launchUrl": "Word",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"

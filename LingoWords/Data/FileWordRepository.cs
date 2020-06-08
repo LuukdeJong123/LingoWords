@@ -21,15 +21,16 @@ namespace LingoWords.Repositories
                     Word word = new Word(text);
                     wordsList.Add(word);
                 }
-                return wordsList;
+                
             }
             catch(IOException ex)
             {
                 //Exit the code
+                Console.WriteLine(ex);
                 Environment.Exit(0);
-                return wordsList;
+                
             }
-           
+            return wordsList;
         }
     }
 }

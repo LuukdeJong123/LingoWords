@@ -10,5 +10,6 @@ namespace LingoWords.Services
     {
         IList<Word> checkAllWords();
 
+        string checkWord(string text);
     }
 }
