@@ -28,7 +28,6 @@ namespace LingoWords.Repositories
                 //Exit the code
                 Console.WriteLine(ex);
                 Environment.Exit(0);
-                
             }
             return wordsList;
         }

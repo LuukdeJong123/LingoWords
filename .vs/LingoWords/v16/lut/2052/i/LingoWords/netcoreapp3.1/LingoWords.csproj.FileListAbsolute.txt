@@ -1,0 +1,16 @@
+C:\Users\Luuk\source\repos\LingoWords\.vs\LingoWords\v16\lut\0\b\LingoWords\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Luuk\source\repos\LingoWords\.vs\LingoWords\v16\lut\0\b\LingoWords\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Luuk\source\repos\LingoWords\.vs\LingoWords\v16\lut\0\b\LingoWords\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Luuk\source\repos\LingoWords\.vs\LingoWords\v16\lut\0\b\LingoWords\bin\Debug\netcoreapp3.1\LingoWords.exe
+C:\Users\Luuk\source\repos\LingoWords\.vs\LingoWords\v16\lut\0\b\LingoWords\bin\Debug\netcoreapp3.1\LingoWords.deps.json
+C:\Users\Luuk\source\repos\LingoWords\.vs\LingoWords\v16\lut\0\b\LingoWords\bin\Debug\netcoreapp3.1\LingoWords.runtimeconfig.json
+C:\Users\Luuk\source\repos\LingoWords\.vs\LingoWords\v16\lut\0\b\LingoWords\bin\Debug\netcoreapp3.1\LingoWords.runtimeconfig.dev.json
+C:\Users\Luuk\source\repos\LingoWords\.vs\LingoWords\v16\lut\0\b\LingoWords\bin\Debug\netcoreapp3.1\LingoWords.dll
+C:\Users\Luuk\source\repos\LingoWords\.vs\LingoWords\v16\lut\0\i\LingoWords\netcoreapp3.1\LingoWords.AssemblyInfoInputs.cache
+C:\Users\Luuk\source\repos\LingoWords\.vs\LingoWords\v16\lut\0\i\LingoWords\netcoreapp3.1\LingoWords.AssemblyInfo.cs
+C:\Users\Luuk\source\repos\LingoWords\.vs\LingoWords\v16\lut\0\i\LingoWords\netcoreapp3.1\LingoWords.RazorTargetAssemblyInfo.cache
+C:\Users\Luuk\source\repos\LingoWords\.vs\LingoWords\v16\lut\0\i\LingoWords\netcoreapp3.1\LingoWords.csproj.CopyComplete
+C:\Users\Luuk\source\repos\LingoWords\.vs\LingoWords\v16\lut\0\i\LingoWords\netcoreapp3.1\staticwebassets\LingoWords.StaticWebAssets.Manifest.cache
+C:\Users\Luuk\source\repos\LingoWords\.vs\LingoWords\v16\lut\0\i\LingoWords\netcoreapp3.1\staticwebassets\LingoWords.StaticWebAssets.xml
+C:\Users\Luuk\source\repos\LingoWords\.vs\LingoWords\v16\lut\0\i\LingoWords\netcoreapp3.1\LingoWords.dll
+C:\Users\Luuk\source\repos\LingoWords\.vs\LingoWords\v16\lut\0\i\LingoWords\netcoreapp3.1\LingoWords.genruntimeconfig.cache
