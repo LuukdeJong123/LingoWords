@@ -24,4 +24,10 @@
     <ProjectReference Include="..\LingoWords\LingoWords.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="basiswoorden-gekeurd.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

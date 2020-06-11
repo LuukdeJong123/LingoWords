@@ -143,3 +143,4 @@ C:\Users\Luuk\source\repos\LingoWords\LingoWordsTest\obj\Debug\netcoreapp3.1\Lin
 C:\Users\Luuk\source\repos\LingoWords\LingoWordsTest\obj\Debug\netcoreapp3.1\LingoWordsTest.RazorTargetAssemblyInfo.cache
 C:\Users\Luuk\source\repos\LingoWords\LingoWordsTest\obj\Debug\netcoreapp3.1\staticwebassets\LingoWordsTest.StaticWebAssets.Manifest.cache
 C:\Users\Luuk\source\repos\LingoWords\LingoWordsTest\obj\Debug\netcoreapp3.1\staticwebassets\LingoWordsTest.StaticWebAssets.xml
+C:\Users\Luuk\source\repos\LingoWords\LingoWordsTest\bin\Debug\netcoreapp3.1\basiswoorden-gekeurd.txt

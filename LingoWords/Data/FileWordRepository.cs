@@ -15,13 +15,12 @@ namespace LingoWords.Repositories
             IList<Word> wordsList = new List<Word>();
             try
             {
-                string[] fileText = File.ReadAllLines(@"C:\Users\Luuk\source\repos\LingoWords\LingoWords\basiswoorden-gekeurd.txt");
+                string[] fileText = File.ReadAllLines(Path.Combine(Directory.GetCurrentDirectory(), "basiswoorden-gekeurd.txt"));
                 foreach (string text in fileText)
                 {
                     Word word = new Word(text);
                     wordsList.Add(word);
                 }
-                
             }
             catch(IOException ex)
             {
