@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Threading.Tasks;
 
 namespace LingoWords.Repositories
@@ -15,7 +16,7 @@ namespace LingoWords.Repositories
             IList<Word> wordsList = new List<Word>();
             try
             {
-                string[] fileText = File.ReadAllLines(Path.Combine(Directory.GetCurrentDirectory(), "basiswoorden-gekeurd.txt"));
+                string[] fileText = File.ReadAllLines(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)+ "/basiswoorden-gekeurd.txt");
                 foreach (string text in fileText)
                 {
                     Word word = new Word(text);
