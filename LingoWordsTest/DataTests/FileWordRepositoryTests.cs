@@ -9,15 +9,15 @@ namespace LingoWordsTest.DataTests
     {
         private FileWordRepository wordRepository = new FileWordRepository();
 
-        [TestMethod]
-        public void TestReadAllWordsTrue()
-        {
-            Assert.IsTrue(wordRepository.ReadAllWords().Count > 1);
-        }
-        [TestMethod]
-        public void TestReadAllWordsFalse()
-        {
-            Assert.IsFalse(wordRepository.ReadAllWords().Count == 0);
-        }
+        //[TestMethod]
+        //public void TestReadAllWordsTrue()
+        //{
+        //    Assert.IsTrue(wordRepository.ReadAllWords().Count > 1);
+        //}
+        //[TestMethod]
+        //public void TestReadAllWordsFalse()
+        //{
+        //    Assert.IsFalse(wordRepository.ReadAllWords().Count == 0);
+        //}
     }
 }
