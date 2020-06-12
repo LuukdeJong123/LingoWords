@@ -16,7 +16,12 @@ jobs:
     - uses: actions/checkout@master
     - uses: codecov/codecov-action@v1
       with:
+<<<<<<< HEAD
         file: ./coverage.opencover.xml # optional
+=======
+        token: ${{ secrets.CODECOV_TOKEN }} # not required for public repos
+        file: ./LingoWordsTest/coverage.opencover.xml # optional
+>>>>>>> 17bf933fa5e6f16ae88e3204915609f88c5483ca
     - name: Setup .NET Core
       uses: actions/setup-dotnet@v1
       with:
@@ -26,4 +31,10 @@ jobs:
     - name: Build
       run: dotnet build --configuration Release --no-restore
     - name: Test
+<<<<<<< HEAD
       run: dotnet test --no-restore --verbosity normal
+=======
+      run: dotnet test --no-restore --verbosity normal
+
+ 
+>>>>>>> 17bf933fa5e6f16ae88e3204915609f88c5483ca
