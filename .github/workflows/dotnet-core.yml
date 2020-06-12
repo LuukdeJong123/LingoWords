@@ -26,4 +26,5 @@ jobs:
     - name: Upload coverage to Codecov
       uses: codecov/codecov-action@v1
       with:
+        file: ./Luuk_LAPTOP-OHJ2RILB 2020-06-10 18_20_50.coverage
         fail_ci_if_error: true
