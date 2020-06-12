@@ -65,10 +65,6 @@
               "target": "Package",
               "version": "[4.14.1, )"
             },
-            "coverlet.collector": {
-              "target": "Package",
-              "version": "[1.2.0, )"
-            },
             "xunit": {
               "target": "Package",
               "version": "[2.4.1, )"
@@ -142,6 +138,10 @@
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.10.8, )"
+            },
+            "OpenCover": {
+              "target": "Package",
+              "version": "[4.7.922, )"
             }
           },
           "imports": [

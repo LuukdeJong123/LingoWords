@@ -15,6 +15,6 @@ C:\Users\Luuk\source\repos\LingoWords\LingoWords\bin\Debug\netcoreapp3.1\LingoWo
 C:\Users\Luuk\source\repos\LingoWords\LingoWords\obj\Debug\netcoreapp3.1\LingoWords.dll
 C:\Users\Luuk\source\repos\LingoWords\LingoWords\obj\Debug\netcoreapp3.1\LingoWords.pdb
 C:\Users\Luuk\source\repos\LingoWords\LingoWords\obj\Debug\netcoreapp3.1\LingoWords.genruntimeconfig.cache
+C:\Users\Luuk\source\repos\LingoWords\LingoWords\obj\Debug\netcoreapp3.1\LingoWords.csprojAssemblyReference.cache
 C:\Users\Luuk\source\repos\LingoWords\LingoWords\obj\Debug\netcoreapp3.1\LingoWords.csproj.CoreCompileInputs.cache
 C:\Users\Luuk\source\repos\LingoWords\LingoWords\obj\Debug\netcoreapp3.1\LingoWords.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Luuk\source\repos\LingoWords\LingoWords\obj\Debug\netcoreapp3.1\LingoWords.csprojAssemblyReference.cache

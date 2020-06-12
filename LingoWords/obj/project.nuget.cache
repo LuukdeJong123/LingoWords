@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "FuU77g+k/9TN6Ca/Xv9cXMoGK2MGdRDimCsOnlMF4cziffjkLEAK04UGoBdJhiLPkHOKzJXbI4yMAsuBs4p5aw==",
+  "dgSpecHash": "0xDd5gWr2/BWVd/5mnMqbf39ITZDQe8EmMV3lTzsMoLYv2Cm1C/p1qFDEHovmtTyalrOfG7JGTg2tixHCzO1cg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Luuk\\source\\repos\\LingoWords\\LingoWords\\LingoWords.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Luuk\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+    "C:\\Users\\Luuk\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512",
+    "C:\\Users\\Luuk\\.nuget\\packages\\opencover\\4.7.922\\opencover.4.7.922.nupkg.sha512"
   ],
   "logs": []
 }

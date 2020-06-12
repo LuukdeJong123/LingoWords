@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7p63d3yMIhm9X5iJSF1KN5mcKhxw9LZtaiXtkrud5/wJ08rFHDXIKh+NHbblJHmD+nWOa23Rfe+RK5GvI6cHqQ==",
+  "dgSpecHash": "kMB7XUc9Pq5HHp9cgNMGBIAGtusjYLhZcmHi6vTmDXiu6OXe1ru0/XGB5MsLvXGwa4tizDajArK41QUYzwjtyQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Luuk\\source\\repos\\LingoWords\\LingoWordsTest\\LingoWordsTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luuk\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
-    "C:\\Users\\Luuk\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Luuk\\.nuget\\packages\\microsoft.aspnetcore.mvc.testing\\3.1.5\\microsoft.aspnetcore.mvc.testing.3.1.5.nupkg.sha512",
     "C:\\Users\\Luuk\\.nuget\\packages\\microsoft.aspnetcore.testhost\\3.1.5\\microsoft.aspnetcore.testhost.3.1.5.nupkg.sha512",
     "C:\\Users\\Luuk\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
@@ -50,6 +49,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\Luuk\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
+    "C:\\Users\\Luuk\\.nuget\\packages\\opencover\\4.7.922\\opencover.4.7.922.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
