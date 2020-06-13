@@ -23,7 +23,6 @@ namespace LingoWordsTest.PresentationTests
         [InlineData("/Word")]
         public async Task Get_EndpointsReturnSuccessAndCorrectContentType(string url)
         {
-
             var response = await client.GetAsync(url);
 
             response.EnsureSuccessStatusCode();
