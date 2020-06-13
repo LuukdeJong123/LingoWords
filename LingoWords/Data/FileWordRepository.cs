@@ -16,7 +16,7 @@ namespace LingoWords.Repositories
             IList<Word> wordsList = new List<Word>();
             try
             {
-                string[] fileText = File.ReadAllLines(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)+ "/basisworden-gekeurd.txt");
+                string[] fileText = File.ReadAllLines(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)+ "/basiswoorden-gekeurd.txt");
                 foreach (string text in fileText)
                 {
                     Word word = new Word(text);
